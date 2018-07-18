@@ -1,0 +1,17 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "@blueeast/bluerain-os": "^3.1.0",
+    "@blueeast/bluerain-platform-reactxp": "^2.1.0",
+    "@blueeast/bluerain-plugin-apollo": "^0.6.0",
+    "@blueeast/bluerain-plugin-intl": "^1.1.0",
+    "@blueeast/bluerain-plugin-launcher": "^0.6.1",
+    "@blueeast/bluerain-plugin-user-management": "git+ssh://git@bitbucket.org/be-iot-platform/bluerain-plugin-user-management.git#feature/art-refactor",
+    "expo": "^25.0.0",
+    "harmony-reflect": "^1.5.1",
+    "proxy-polyfill": "^0.1.7",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
+  }
+}
