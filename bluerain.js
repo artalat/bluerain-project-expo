@@ -30,7 +30,7 @@ module.exports = {
 
 		wallpaper: {
 			backgroundColor: '#32438E',
-			source: `https://s3-us-west-2.amazonaws.com/bluerainimages/bg.jpg`,
+			source: { uri: `https://s3-us-west-2.amazonaws.com/bluerainimages/bg.jpg` },
 			resizeMode: 'cover',
 		},
 
