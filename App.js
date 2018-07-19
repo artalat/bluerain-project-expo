@@ -1,3 +1,5 @@
+console.log('testing')
+
 // const Proxy = require("proxy-polyfill");
 const Reflect = require("harmony-reflect");
 

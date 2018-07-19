@@ -9,11 +9,11 @@ module.exports = {
 		// All bluerain apps will also be added in this array
 		// require('@blueeast/bluerain-app-hello-world'),
 		// require('@blueeast/bluerain-app-settings'),
-		require('./apps/Alarm'),
-		require('./apps/Android'),
-		require('./apps/Bulb'),
-		require('./apps/Foo'),
-		require('./apps/Sites'),
+		// require('./apps/Alarm'),
+		// require('./apps/Android'),
+		// require('./apps/Bulb'),
+		// require('./apps/Foo'),
+		// require('./apps/Sites'),
 	],
 	plugins:[
 		// All bluerain plugins will be added here
